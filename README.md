@@ -44,7 +44,7 @@ os
 pandas
 
 ## Sources
-https://spotintelligence.com/2022/12/20/bag-of-words-python/ (bag of words)
-https://www.geeksforgeeks.org/python-linear-regression-using-sklearn/ (Linear Regression SKL)
-Lots of Stack Overflow (everything)
-https://github.com/RMHogervorst/TNG (dataset)
+https://spotintelligence.com/2022/12/20/bag-of-words-python/ (bag of words) \
+https://www.geeksforgeeks.org/python-linear-regression-using-sklearn/ (Linear Regression SKL) \
+Lots of Stack Overflow (everything) \
+https://github.com/RMHogervorst/TNG (dataset) \
