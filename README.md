@@ -35,13 +35,13 @@ This file contains all the dictionaries of word counts for each episode. This is
 This file contains all the plots for this project.
 
 ## Project Libraries
-nltk
-matplotlib
-sklearn
-numpy
-string
-os
-pandas
+nltk \
+matplotlib \ 
+sklearn \
+numpy \
+string \
+os \
+pandas \
 
 ## Sources
 https://spotintelligence.com/2022/12/20/bag-of-words-python/ (bag of words) \
