@@ -1,4 +1,4 @@
-# Start-Trek-TNG-Data-Analysis
+# Start Trek TNG: Data Analysis
 
 Data is an android from Star Trek: The Next Generation (TNG). This project aimed to determine whether Data's speech patterns actually become more human throughout the show by analyzing how many different words Data used per episode. I hypothesized that if Data's speech patterns do indeed become more human, than his word variability should increase over time.
 
@@ -27,7 +27,7 @@ The function in this file performs Linear Regression Analysis on the bag of word
 #### FinalProject_WriteUp.pdf
 A write-up of the conclusion and results of this analysis. 
 
-### Generated Files:
+### Generated Files
 #### output.txt
 This file contains all the dictionaries of word counts for each episode. This is used for troubleshooting and verification. 
 
