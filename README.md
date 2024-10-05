@@ -36,12 +36,12 @@ This file contains all the plots for this project.
 
 ## Project Libraries
 nltk \
-matplotlib \ 
+matplotlib \
 sklearn \
 numpy \
 string \
 os \
-pandas \
+pandas
 
 ## Sources
 https://spotintelligence.com/2022/12/20/bag-of-words-python/ (bag of words) \
